@@ -1,0 +1,2 @@
+*** Variables ***
+${maxTimeOut}     60
